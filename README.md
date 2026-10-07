@@ -109,11 +109,50 @@ nothing special, ai could do better for sure, hehe
 [repo](https://github.com/wiwitadityasaputra/street-food) [live](https://street-food-seven.vercel.app)
 </details>
 
-#### 2015 August - 2026 August   
+#### 2015 August - 2026 August ![Markdown Logo](https://raw.githubusercontent.com/wiwitadityasaputra/wiwitadityasaputra/refs/heads/main/images/aol-03.jpg)        
 <details>
  <summary>
-  sdf
+  wonderful
  </summary>
+
+```markdown
+11 years is a very long time, i still can't belive its just happen
+thanks god this is my destiny
+i remember 2015 i only have enthusiasm and a little experience   
+i meat amazing people that which made me who I am today
+special thanks for Jagadeesh Aluri who has gave me this precious opportunity   
+```
+with aol i had manage & build a lot of things here is the biggest apps:
+1. obick.js   
+```markdown
+obick stand for obi checkout script
+aol create own payment method management them self
+obick will make sure user very secure input their credit card (similar to stripe)
+```
+2. mail.aol.com
+```markdown
+as you can see aol mail & yahoo mail are same thing   
+i help some crete & manage some features there
+and also meet yahoo great enginer
+```
+3. mcare
+```markdown
+when client using aol payment services client also able to manage their users   
+mcare will help client to manage products, users, promo, payment method, subscriptions and etc
+```
+4. demo app
+```markdown
+aol have tons of microservice to manage their subscription services   
+demo app will help client who want to use it   
+similar to swagger but its more specific apis & better examples
+```
+5. myaccount.aol.com
+```markdown
+i'm helping migration from backbone to react
+```
+
+6. and more
+
 </details>
 
 
